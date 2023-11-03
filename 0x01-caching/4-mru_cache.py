@@ -9,7 +9,7 @@ from base_caching import BaseCaching
 
 class MRUCache(BaseCaching):
     '''
-    FIFOCache function
+    FIFOCache class
     '''
 
     def __init__(self):
